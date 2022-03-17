@@ -19,7 +19,7 @@ palancaMenu.addEventListener("click", () => {
     else{
 
         bodyForNav.classList.add("menu-show-hidden")
-        palancaMenuText.textContent = "AK"
+        palancaMenuText.textContent = "AD"
         palancaMenuArrow.classList.remove("fa-angle-left")
         palancaMenuArrow.classList.add("fa-angle-right")
 

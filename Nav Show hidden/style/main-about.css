@@ -5,7 +5,8 @@
     min-height: 100vh;
     margin-left: var(--nav-ancho-show);
     padding: 30px;
-    
+
+    font-family: 'Poppins', sans-serif;
 }
 
 .main article h3{
